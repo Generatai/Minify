@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage - Main Landing -->
+  <url>
+    <loc>https://img1resize.in/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://img1resize.in/compress.jpg</image:loc>
+      <image:title>Free Image Resizer & Compressor Online</image:title>
+      <image:caption>Resize & Compress image online instantly for WhatsApp, Facebook, Instagram & Govt Forms</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Home Page with All Tools -->
+  <url>
+    <loc>https://img1resize.in/index.html</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://img1resize.in/screenshorts-mobile.jpg</image:loc>
+      <image:title>All Image Tools - Complete Collection</image:title>
+    </image:image>
+  </url>
+
+  <!-- Image Resizer Tool -->
+  <url>
+    <loc>https://img1resize.in/image-resizer.html</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://img1resize.in/resize.jpg</image:loc>
+      <image:title>Free Image Resizer Tool - Resize to 200KB, 100KB, 500KB</image:title>
+    </image:image>
+  </url>
+  <!-- pixel resizer tool-->
+<url>
+    <loc>https://img1resize.in/pixel-resizer.html</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://img1resize.in/pixel.jpg</image:loc>
+      <image:title>Free Image pixel  Resizer Tool - Resize height & width, Increase & decrease pixel</image:title>
+    </image:image>
+  </url>
+    <!-- image compressor tool-->
+<url>
+    <loc>https://img1resize.in/image-compressor.html</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://img1resize.in/compress.jpg</image:loc>
+      <image:title>Free Image compressor Tool compress- 2mb to 100kb, 500kb to 20kb, 1mb to 50kb, 300kb to 200kb</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Increase KB/MB Tool -->
+  <url>
+    <loc>https://img1resize.in/increase-kb.html</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://img1resize.in/increase.jpg</image:loc>
+      <image:title>Increase Image File Size - KB/MB Tool</image:title>
+    </image:image>
+  </url>
+ <!-- Format Converter -->
+  <url>
+    <loc>https://img1resize.in/format-converter.html</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://img1resize.in/format.jpg</image:loc>
+      <image:title>Image Format Converter - JPG, PNG, WebP, GIF, BMP</image:title>
+    </image:image>
+  </url>
+  <!-- Image to PDF Converter -->
+  <url>
+    <loc>https://img1resize.in/image-to-pdf.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://img1resize.in/image-to.jpg</image:loc>
+      <image:title>Convert Image to PDF - Free Online Converter</image:title>
+    </image:image>
+  </url>
+
+  <!-- Text to PDF Converter -->
+  <url>
+    <loc>https://img1resize.in/text-to-pdf.html</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://img1resize.in/text-to.jpg</image:loc>
+      <image:title>Convert Text to PDF - Online Text Converter</image:title>
+    </image:image>
+  </url>
+    <!-- blog -->
+  <url>
+    <loc>https://img1resize.in/blog.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://img1resize.in/gov-200kb.webp</image:loc>
+      <image:title>how to use img1resize.in website at work in blog </image:title>
+    </image:image>
+  </url>
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://img1resize.in/privacy-policy.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Terms & Conditions -->
+  <url>
+    <loc>https://img1resize.in/terms-and-conditions.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Disclaimer -->
+  <url>
+    <loc>https://img1resize.in/disclaimer.html</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

@@ -1,0 +1,103 @@
+{
+  "name": "IMG1RESIZE - Free Online Image Tools",
+  "short_name": "IMG1RESIZE",
+  "description": "Free Online Image Tools - Resize, Compress, Convert Images, PDF Converter & more. 100% free, no registration required.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "orientation": "any",
+  "scope": "/",
+  "categories": ["utilities", "photo", "productivity", "tools"],
+  "lang": "hi-IN",
+  "dir": "ltr",
+  
+  "icons": [
+    {
+      "src": "/logo-192.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-512.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  
+  "screenshots": [
+    {
+      "src": "/screenshorts-mobile.jpg",
+      "sizes": "375x667",
+      "type": "image/jpg",
+      "form_factor": "narrow",
+      "label": "Image Resizer Tool"
+    },
+    {
+      "src": "/screenshots-desktop.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpg",
+      "form_factor": "wide",
+      "label": "All Image Tools Dashboard"
+    }
+  ],
+  
+  "shortcuts": [
+    {
+      "name": "Image Resizer",
+      "short_name": "Resize",
+      "description": "Resize image to any dimensions or file size",
+      "url": "/image-resizer.html"
+    },
+    {
+      "name": "Image Compressor", 
+      "short_name": "Compress",
+      "description": "Compress image without quality loss",
+      "url": "/image-compressor.html"
+    },
+     {
+      "name": "pixel resizer", 
+      "short_name": "pixel",
+      "description": "Resize pixel image height & width",
+      "url": "/pixel-resizer.html"
+    },
+        {
+      "name": "Iincrease kb | mb tool",
+      "short_name": "Iincrease kb,mb",
+      "description": "Increase images size- 10kb to 500kb convert",
+      "url": "/Increase-kb.html"
+    },
+    {
+      "name": "Image to PDF Converter",
+      "short_name": "PDF Converter",
+      "description": "Convert images to PDF format",
+      "url": "/image-to-pdf.html"
+    },
+        {
+      "name": "text to PDF Converter",
+      "short_name": "PDF Converter",
+      "description": "Convert text to PDF format",
+      "url": "/text-to-pdf.html"
+    },
+    {
+      "name": "Format Converter",
+      "short_name": "Converter",
+      "description": "Convert between image formats like- jpeg to png convert, jpg to webp convert",
+      "url": "/format-converter.html"
+    }
+  ]
+}
